@@ -470,7 +470,7 @@ offset_bottom = -149.0
 theme_override_colors/font_color = Color(0.0784314, 0.596078, 0.862745, 1)
 theme_override_fonts/font = ExtResource("9_8kdd4")
 theme_override_font_sizes/font_size = 8
-text = "You collected X coins.
+text = "You collected 0 coins.
 "
 horizontal_alignment = 1
 autowrap_mode = 2
